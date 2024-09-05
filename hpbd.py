@@ -1,0 +1,5 @@
+name=input("enter name!: ")
+bmo=input('enter birth month: ')
+bday=int(input("enter birth date: "))
+byear=input("enter year of birth: ")
+info=print("your name is",name,"you were born on the",bday,"of",bmo,byear)
